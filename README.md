@@ -33,8 +33,8 @@ We welcome contributions from the community to enhance the functionality and fea
 
 ## Contact
 For any inquiries, support, or collaboration opportunities, feel free to reach out to the project team:
-- **Aayushi Singh Thakur:** [Email](mailto:imaayushisinghthakur@gmail.com)
-- **Rishika Sahoo:** [Email](mailto:s.rishika009@gmail.com)
+- **Aayushi Singh Thakur:** [imaayushisinghthakur@gmail.com]
+- **Rishika Sahoo:** [s.rishika009@gmail.com]
 - **Team ID:** 592419
 
 Feel free to explore the GPU Share Price Estimation website and unlock the potential for making informed investment decisions in the GPU market.
